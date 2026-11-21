@@ -1,0 +1,6 @@
+[
+  { "name": "1-crossing.jpg", "query": "?shot=crossing&seed=7" },
+  { "name": "2-cameras.jpg", "query": "?shot=cameras&seed=7" },
+  { "name": "3-vault.jpg", "query": "?shot=vault&seed=7" },
+  { "name": "4-getaway.jpg", "query": "?shot=getaway&seed=7" }
+]
